@@ -18,7 +18,7 @@ const Form = () => {
             alert('El campo no puede estar vacio')
             return
         }
-        setTodos([...todos,todo,all])
+        setTodos([...todos,todo])
     }
     const deleteTodo=indice => {
         const newTodos = [...todos]
@@ -30,7 +30,7 @@ const Form = () => {
         <form onSubmit={e => e.preventDefault()}>
             <label>Agregar tarea</label>
             <input type="text" name="todo" onChange={handleChange}/>
-           <input type="text" name="all" onChange={handleChange}/>
+           <input type="text" name="todo" onChange={handleChange}/>
             <button onClick={handleClick}>agregar</button>
         </form>
         {
