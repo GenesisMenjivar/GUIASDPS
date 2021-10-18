@@ -15,3 +15,11 @@ Guia 05
 Guia 06
 * Ejemplo https://snack.expo.dev/@genesismenjivar/ejemplo1-guia06
 * Complementario https://snack.expo.dev/@genesismenjivar/complementario-guia06
+
+Guia 07
+* Ejemplo https://snack.expo.dev/@genesismenjivar/ejemplo1-guia7
+* Complementario https://snack.expo.dev/@genesismenjivar/complementario-guia7
+
+Guia 08
+* Ejemplo https://snack.expo.dev/@genesismenjivar/ejercicio-gui8
+* Complementario https://snack.expo.dev/@genesismenjivar/ejerciciocomplementario-gui8
